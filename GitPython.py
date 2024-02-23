@@ -94,4 +94,4 @@ print("Success: Remote 'origin' is set up.")
 
 # Generate and add GitHub Actions workflow
 os.chdir(repo_directory)
-generate_github_workflow(repo_dir=repo_directory, script_name=r'GitPythonUpdated.py')
+generate_github_workflow(repo_dir=repo_directory, script_name=r'GitPython.py')
